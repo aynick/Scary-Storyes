@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff9fb063ac01cd741afdf385304880e7, type: 3}
+  m_Name: Skisers
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6432588874346530192, guid: ad4024ef3875d884a8772201b271c458, type: 3}
+  icon: {fileID: 21300000, guid: 55c724880f0e5aa4c8fb5e8dde2debd7, type: 3}
